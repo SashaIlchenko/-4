@@ -187,7 +187,12 @@ img {
 .mail-icon {
     width: 16px;
     height: 12px;
-    fill: #2196F3;
+
+}
+
+.icon-tell {
+    width: 10px;
+    height: 16px;
 }
 
 .hero {
